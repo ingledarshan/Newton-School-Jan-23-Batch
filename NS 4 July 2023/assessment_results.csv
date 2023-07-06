@@ -1,0 +1,121 @@
+﻿first_name,last_name,attempted,correct,incorrect,total_question
+"Krishna","pullojwar",4,4,0,4
+"UNNAM","Trivikram",4,4,0,4
+"Bibek Kumar Parida","",4,4,0,4
+"Geetanjali","Shinde",4,4,0,4
+"Juhi","Fukatkar",4,4,0,4
+"Akshay","Kumar",4,4,0,4
+"Kartik","Patidar",4,4,0,4
+"Munendra","Mishra",4,4,0,4
+"sanjeet","Arya",4,4,0,4
+"Vipul","Baliyan",4,4,0,4
+"Vishwanath","Patil",4,4,0,4
+"Seema","Anand",4,4,0,4
+"Neha Tiwari","",4,4,0,4
+"Yogesh","G. Rajpayle",4,4,0,4
+"Abhishek","Kumar Singh",4,4,0,4
+"Avadh","Thummar",4,4,0,4
+"Neha Verma","",4,4,0,4
+"Shubham","Raj",4,4,0,4
+"Jasmeen Kansagara","",4,4,0,4
+"Prudhvi","Raj",4,4,0,4
+
+
+Question 1
+
+﻿first_name,last_name,marked_at,question_text,marked_choice,correct_answer
+"Bibek Kumar Parida","",null,"What is the difference between Queue and Stack?",null,"1"
+"Krishna","pullojwar",null,"What is the difference between Queue and Stack?",null,"1"
+"Vishwanath","Patil",null,"What is the difference between Queue and Stack?",null,"1"
+"Vipul","Baliyan","2023-07-04T21:14:34.260633+05:30","What is the difference between Queue and Stack?",1,"1"
+"Akshay","Kumar","2023-07-04T21:14:47.126484+05:30","What is the difference between Queue and Stack?",1,"1"
+"UNNAM","Trivikram","2023-07-04T21:16:22.663296+05:30","What is the difference between Queue and Stack?",1,"1"
+"Abhishek","Kumar Singh",null,"What is the difference between Queue and Stack?",null,"1"
+"Jasmeen Kansagara","","2023-07-04T21:15:08.173222+05:30","What is the difference between Queue and Stack?",1,"1"
+"sanjeet","Arya","2023-07-04T21:17:46.703284+05:30","What is the difference between Queue and Stack?",1,"1"
+"Juhi","Fukatkar",null,"What is the difference between Queue and Stack?",null,"1"
+"Avadh","Thummar","2023-07-04T21:14:09.363410+05:30","What is the difference between Queue and Stack?",1,"1"
+"Prudhvi","Raj",null,"What is the difference between Queue and Stack?",null,"1"
+"Geetanjali","Shinde",null,"What is the difference between Queue and Stack?",null,"1"
+"Neha Tiwari","","2023-07-04T21:14:45.475965+05:30","What is the difference between Queue and Stack?",1,"1"
+"Kartik","Patidar",null,"What is the difference between Queue and Stack?",null,"1"
+"Shubham","Raj","2023-07-04T21:17:54.778654+05:30","What is the difference between Queue and Stack?",1,"1"
+"Seema","Anand","2023-07-04T21:16:02.071594+05:30","What is the difference between Queue and Stack?",1,"1"
+"Yogesh","G. Rajpayle","2023-07-04T21:14:59.430317+05:30","What is the difference between Queue and Stack?",1,"1"
+"Munendra","Mishra","2023-07-04T21:16:30.297564+05:30","What is the difference between Queue and Stack?",1,"1"
+"Neha Verma","",null,"What is the difference between Queue and Stack?",null,"1"
+
+
+Question 2
+
+﻿first_name,last_name,marked_at,question_text,marked_choice,correct_answer
+"Bibek Kumar Parida","",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Krishna","pullojwar",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Vishwanath","Patil",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Vipul","Baliyan","2023-07-04T21:14:49.089476+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Akshay","Kumar","2023-07-04T21:14:32.157132+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"UNNAM","Trivikram","2023-07-04T21:16:06.834141+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Abhishek","Kumar Singh",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Jasmeen Kansagara","","2023-07-04T21:16:22.417669+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"sanjeet","Arya","2023-07-04T21:17:09.660896+05:30","What is difference between dequeue() and peek() function of java?",1,"3"
+"Juhi","Fukatkar",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Avadh","Thummar","2023-07-04T21:15:32.814302+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Prudhvi","Raj",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Geetanjali","Shinde",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+"Neha Tiwari","","2023-07-04T21:14:28.368023+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Kartik","Patidar","2023-07-04T21:15:03.248767+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Shubham","Raj","2023-07-04T21:15:19.693934+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Seema","Anand","2023-07-04T21:15:19.124628+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Yogesh","G. Rajpayle","2023-07-04T21:14:44.510861+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Munendra","Mishra","2023-07-04T21:15:30.853849+05:30","What is difference between dequeue() and peek() function of java?",3,"3"
+"Neha Verma","",null,"What is difference between dequeue() and peek() function of java?",null,"3"
+
+
+Question 3
+
+﻿first_name,last_name,marked_at,question_text,marked_choice,correct_answer
+"Bibek Kumar Parida","",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Krishna","pullojwar",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Vishwanath","Patil","2023-07-04T21:14:42.206278+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Vipul","Baliyan","2023-07-04T21:14:13.599676+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Akshay","Kumar","2023-07-04T21:14:22.313804+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"UNNAM","Trivikram","2023-07-04T21:14:38.339203+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Abhishek","Kumar Singh",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Jasmeen Kansagara","","2023-07-04T21:14:45.444105+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"sanjeet","Arya","2023-07-04T21:16:13.831094+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Juhi","Fukatkar",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Avadh","Thummar","2023-07-04T21:14:43.937506+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Prudhvi","Raj",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Geetanjali","Shinde",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Neha Tiwari","","2023-07-04T21:14:16.958239+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Kartik","Patidar","2023-07-04T21:14:27.288682+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Shubham","Raj",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+"Seema","Anand","2023-07-04T21:14:46.179291+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Yogesh","G. Rajpayle","2023-07-04T21:14:24.805836+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Munendra","Mishra","2023-07-04T21:14:43.577733+05:30","What is the characteristic behavior of a queue data structure?",1,"1"
+"Neha Verma","",null,"What is the characteristic behavior of a queue data structure?",null,"1"
+
+
+Question 4
+
+﻿first_name,last_name,marked_at,question_text,marked_choice,correct_answer
+"Bibek Kumar Parida","",null,"Which data structure is commonly used to implement a queue?",null,"4"
+"Krishna","pullojwar","2023-07-04T21:18:15.216180+05:30","Which data structure is commonly used to implement a queue?",1,"4"
+"Vishwanath","Patil","2023-07-04T21:14:33.041740+05:30","Which data structure is commonly used to implement a queue?",3,"4"
+"Vipul","Baliyan","2023-07-04T21:14:03.060307+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Akshay","Kumar","2023-07-04T21:14:06.716927+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"UNNAM","Trivikram","2023-07-04T21:16:40.677437+05:30","Which data structure is commonly used to implement a queue?",1,"4"
+"Abhishek","Kumar Singh","2023-07-04T21:14:03.873651+05:30","Which data structure is commonly used to implement a queue?",2,"4"
+"Jasmeen Kansagara","","2023-07-04T21:15:24.758748+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"sanjeet","Arya","2023-07-04T21:15:09.526564+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Juhi","Fukatkar",null,"Which data structure is commonly used to implement a queue?",null,"4"
+"Avadh","Thummar","2023-07-04T21:15:16.608422+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Prudhvi","Raj",null,"Which data structure is commonly used to implement a queue?",null,"4"
+"Geetanjali","Shinde",null,"Which data structure is commonly used to implement a queue?",null,"4"
+"Neha Tiwari","","2023-07-04T21:14:01.555222+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Kartik","Patidar","2023-07-04T21:14:15.437891+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Shubham","Raj",null,"Which data structure is commonly used to implement a queue?",null,"4"
+"Seema","Anand","2023-07-04T21:14:19.689794+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Yogesh","G. Rajpayle","2023-07-04T21:14:02.225358+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Munendra","Mishra","2023-07-04T21:14:08.603296+05:30","Which data structure is commonly used to implement a queue?",4,"4"
+"Neha Verma","","2023-07-04T21:16:09.560693+05:30","Which data structure is commonly used to implement a queue?",4,"4"
