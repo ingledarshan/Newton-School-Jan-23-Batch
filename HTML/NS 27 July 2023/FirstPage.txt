@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FSD-B January 2023 Batch</title>
+</head>
+<body style="background-color: burlywood;">
+        <h1 style="background-color: blueviolet;">Ye hamara main1 heading hai</h1>
+        <p>My first <br> paragraph.</p>
+        <a href="https://www.instagram.com/dark_devil_mullick/">ClickHere</a><br><br>
+        <img src="darshan.jpeg" alt="image not found"> <br><br><br>
+        <center><img src="ingle.jpeg" alt="pic not found at source" width="200" height="250"></center> <br><br>
+        <p style="color: blue;">This is me</p>
+        <p style="font-size: 50px;">Hello Boss!!!</p>
+        <p style="font-family: Georgia, 'Times New Roman', Times, serif; font-style: italic;">Naya hai yahape font</p>
+        <p style="text-align: center; font-size: 200%; font-weight: bold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">bich me</p>
+        <p>10<sup>2</sup> = 100</p>
+        <p>log<sub>a</sub>a = 1</p>
+        <p>My <small>name</small> is <b>Dr. Darshan Ingle</b> and I am a <i>faculty</i> at <em>Newton School</em></p>
+        <p>Kuch <mark>aur sikhte</mark> hai</p>
+        <p>Ab <u>main</u> session khatam <del>nahi</del> karunga</p>
+</body>
+</html>

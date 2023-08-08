@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blueviolet;
+    background-color: yellow;
+}
+a:link {
+    color: blue
+}
+a :visited {
+    color: pink;
+    background-color: transparent;
+}
+
+a :hover{
+    color: black;
+    background-color: whitesmoke;
+}

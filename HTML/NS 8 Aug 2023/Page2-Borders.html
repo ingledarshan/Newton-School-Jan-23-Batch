@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p.dotted { border-style: dotted;
+            border-width: 5px;
+            border-color: red;}
+        p.dashed {border-style: dashed;
+            border-color: red green blue yellow; /* red top, green right, blue bottom and yellow}
+        p.solid {border-style: solid;}
+        p.double {border-style: double;
+            border-width: 5px;}
+        p.groove {border-style: groove;
+            border-width: 5px 20px; /* 5px top and bottom, 20px on the sides */}
+        p.ridge {border-style: ridge;
+            border-width: 25px 10px 4px 35px; /* 25px top, 10px right, 4px bottom and 35px left */
+            border-color: rgb(255, 100, 140); /* red */}
+        p.inset {border-style: inset;
+            border-color: #ff0000; }
+        
+        p.new {
+            border: 2px solid red;
+            border-radius: 7px;
+        }
+    </style>
+</head>
+<body style="background-color: grey;">
+    
+    <h2>The border-style Property</h2>
+    <p>This property specifies what kind of border to display:</p>
+
+<p class="dotted">A dotted border.</p>
+<p class="dashed">A dashed border.</p>
+<p class="solid">A solid border.</p>
+<p class="double">A double border.</p>
+<p class="groove">A groove border.</p>
+<p class="ridge">A ridge border.</p>
+<p class="inset">An inset border.</p>
+<p class="outset">An outset border.</p>
+<p class="none">No border.</p>
+<p class="hidden">A hidden border.</p>
+<p class="mix">A mixed border.</p>
+<br>
+<p class="new">A new border.</p>
+</body>
+</html>
